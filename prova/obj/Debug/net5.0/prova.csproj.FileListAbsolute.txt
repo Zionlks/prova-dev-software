@@ -1,0 +1,16 @@
+D:\trabalho soft\prova\bin\Debug\net5.0\prova.exe
+D:\trabalho soft\prova\bin\Debug\net5.0\prova.deps.json
+D:\trabalho soft\prova\bin\Debug\net5.0\prova.runtimeconfig.json
+D:\trabalho soft\prova\bin\Debug\net5.0\prova.runtimeconfig.dev.json
+D:\trabalho soft\prova\bin\Debug\net5.0\prova.dll
+D:\trabalho soft\prova\bin\Debug\net5.0\ref\prova.dll
+D:\trabalho soft\prova\bin\Debug\net5.0\prova.pdb
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.csproj.AssemblyReference.cache
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.AssemblyInfoInputs.cache
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.AssemblyInfo.cs
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.csproj.CoreCompileInputs.cache
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.dll
+D:\trabalho soft\prova\obj\Debug\net5.0\ref\prova.dll
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.pdb
+D:\trabalho soft\prova\obj\Debug\net5.0\prova.genruntimeconfig.cache
