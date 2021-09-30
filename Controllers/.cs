@@ -13,7 +13,10 @@ namespace API.Controllers
 
         public aluno create(livro produto)
         {
-            produto.Name += "cadastrado"
+            livro.Name += "cadastrado" ;
+           
+           
+           
             return livro;
 
         }
