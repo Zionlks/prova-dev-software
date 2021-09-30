@@ -1,6 +1,6 @@
-namespace livro.models
+namespace API.models
 {
-    public class cadastro
+    public class livro
     {
 
         public string Livro {get; set; }

@@ -1,0 +1,8 @@
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.csproj.AssemblyReference.cache
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.AssemblyInfoInputs.cache
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.AssemblyInfo.cs
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.csproj.CoreCompileInputs.cache
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.MvcApplicationPartsAssemblyInfo.cache
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.RazorAssemblyInfo.cache
+D:\trabalho soft\obj\Debug\net5.0\trabalho soft.RazorAssemblyInfo.cs

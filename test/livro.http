@@ -1,0 +1,8 @@
+post 
+Content-Type: application/json
+
+{
+
+"nome" : "lucas",
+"livro" : "nome"
+}
