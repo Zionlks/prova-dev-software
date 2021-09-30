@@ -1,0 +1,11 @@
+<div id="aluno">
+
+    <label for="aluno">aluno:>/label>
+ </div>
+    <div id="nome">
+    <label for="nome">nome:>/label>
+ </div> 
+    <div id="livro">
+    <label for="livro">livro:>/label>
+ </div>
+   <button (click)="cadastrar()"> cadastrar</button>
